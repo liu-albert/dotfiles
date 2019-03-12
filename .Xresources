@@ -1,0 +1,12 @@
+! HiDPI Font Scaling
+Xft.dpi: 125
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+
+! URxvt Settings
+URxvt.font: xft:Hack-Regular:size=10
